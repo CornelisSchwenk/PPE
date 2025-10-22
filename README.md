@@ -1,5 +1,6 @@
 # Microphysical Parameter Choices Modulate Ice Content and Relative Humidity in the Outflow of a Warm Conveyor Belt
 
+![Background](background.png)
 📘 **Reproducibility repository for our 2025 publication:**
 
 > *"Microphysical parameter choices modulate ice content and relative humidity in the outflow of a warm conveyor belt"*  
@@ -11,13 +12,9 @@
 
 This repository contains the **code, configuration, and analysis scripts** used to reproduce the results presented in the publication listed above.
 
-All analysis is performed using **Julia**, and the main plotting and analysis routines can be found in the `CODE/` directory.
+All analysis is performed using **Julia**, and the main plotting and analysis routines can be found in this repository. 
 
-The repository provides:
-- Reproducible workflows for the data analysis in the paper  
-- Functions for model calculations, statistical analysis, and plotting  
-- Scripts to recreate the figures presented in the publication  
-
+For data, please see the Zenodo repository: [10.5281/zenodo.17179532](https://doi.org/10.5281/zenodo.17179532) 
 ---
 
 ## 🚀 Getting Started
@@ -35,7 +32,9 @@ Unzip or clone this repository and navigate into the project directory:
 git clone git@github.com:CornelisSchwenk/PPE.git
 cd PPE
 ```
-
+Create the directories CODE/, DATA/ and PLOTS/
+Copy all files from this repo into CODE/
+Navigate to CODE/
 Install required Julia packages:
 
 ```bash
@@ -137,20 +136,16 @@ If you use this code or build upon this work, please cite the paper:
 ## 📬 Contact
 
 **Cornelis Schwenk**  
-Email: *add your email if desired*  
+Email: *corny.schwenk@gmail.com*  
 GitHub: [@CornelisSchwenk](https://github.com/CornelisSchwenk)
 
 ---
 
 ## 🪪 License
 
-You can include a license of your choice here, for example:
-
 ```
-MIT License
 Copyright (c) 2025 Cornelis Schwenk
 ```
 
 ---
 
-![Background](background.png)
