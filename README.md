@@ -1,11 +1,11 @@
 # Microphysical Parameter Choices Modulate Ice Content and Relative Humidity in the Outflow of a Warm Conveyor Belt
 
 ![Abstract](Abstract_PPE.png)
-![GIF](output.gif)
 📘 **Reproducibility repository for our 2025 publication:**
 
 > *"Microphysical parameter choices modulate ice content and relative humidity in the outflow of a warm conveyor belt"*  
 > DOI (): [10.5194/acp-25-11333-2025](https://doi.org/10.5194/acp-25-11333-2025)
+![GIF](output.gif)
 
 ---
 
