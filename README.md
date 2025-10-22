@@ -35,9 +35,12 @@ Unzip or clone this repository and navigate into the project directory:
 git clone git@github.com:CornelisSchwenk/PPE.git
 cd PPE
 ```
-Create the directories CODE/, DATA/ and PLOTS/
+Create the directories CODE/, DATA/ and PLOTS/. Download Data from Zenodo and place in DATA/
+
 Copy all files from this repo into CODE/
+
 Navigate to CODE/
+
 Install required Julia packages:
 
 ```bash
